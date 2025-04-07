@@ -19,7 +19,18 @@ A simple yet functional **ToDo List App** built with **React** and styled using 
 
 - [React] 
 - [Tailwind CSS] 
-- [Vite] 
+- [Vite]
+
+  
+## ⚙️ How to Run the App
+
+ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/react-todo-app.git
+cd react-todo-app
+npm install
+npm run dev
 
  
 
